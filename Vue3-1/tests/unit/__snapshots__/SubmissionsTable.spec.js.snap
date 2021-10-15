@@ -1,0 +1,814 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubmissionsTable Matches snapshot 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <div
+    class="block-content"
+  >
+    <div
+      class="block"
+    >
+      <select
+        class="btn btn-default dropdown-toggle"
+      >
+        <option>
+          5
+        </option>
+        <option>
+          10
+        </option>
+        <option>
+          15
+        </option>
+        <option>
+          20
+        </option>
+      </select>
+      <button
+        class="btn btn-secondary margin-left"
+        data-testid="open-filters-button"
+      >
+         Filter submissions 
+      </button>
+      <button
+        class="btn btn-primary pull-right"
+        data-testid="create-submission-button"
+      >
+         Create submission 
+      </button>
+    </div>
+    <div
+      class="block block-bordered block-rounded"
+    >
+      
+      <div
+        class="content justify-center row-hover"
+      >
+        
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            name
+          </div>
+          <div
+            class="font-w600 data-content name"
+          >
+            Ivana Trajkova
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            email
+          </div>
+          <div
+            class="font-w600 data-content email"
+          >
+            ivana_tr@example.com
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            recommendation
+          </div>
+          <div
+            class="font-w600 data-content recommendation"
+          >
+            yes
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            feedback
+          </div>
+          <div
+            class="font-w600 data-content feedback"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non enim gravida ante feugiat fermentum in vitae sem. Mauris ligula ante, finibus quis convallis eget, auctor vehicula massa. Nunc arcu lectus, viverra ac enim eu, suscipit fermentum sapien. Nam maximus facilisis enim sit amet tempor. Curabitur at euismod augue, et aliquet elit. Mauris dui libero, consequat sit amet lacus sit amet, vulputate interdum tellus. Morbi condimentum porttitor ornare.
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            date
+          </div>
+          <div
+            class="font-w600 data-content date"
+          >
+            03/10/2021
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form
+          </div>
+          <div
+            class="font-w600 data-content form"
+          >
+            Form 1
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form type
+          </div>
+          <div
+            class="font-w600 data-content form_type"
+          >
+            popup
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            status
+          </div>
+          <div
+            class="font-w600 data-content status"
+          >
+            pending
+          </div>
+        </div>
+        
+        <div
+          class="column"
+        >
+          <div>
+            Action
+          </div>
+          <div>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+            >
+              <i
+                class="fa fa-edit"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="modal-activator"
+            >
+              <i
+                class="fa fa-eye"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="delete-activator"
+            >
+              <i
+                class="fa fa-trash"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="content justify-center row-hover"
+      >
+        
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            name
+          </div>
+          <div
+            class="font-w600 data-content name"
+          >
+            Ivona Atanasova
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            email
+          </div>
+          <div
+            class="font-w600 data-content email"
+          >
+            ivana_ar@example.com
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            recommendation
+          </div>
+          <div
+            class="font-w600 data-content recommendation"
+          >
+            maybe
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            feedback
+          </div>
+          <div
+            class="font-w600 data-content feedback"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non enim gravida ante feugiat fermentum in vitae sem. Mauris ligula ante, finibus quis conva
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            date
+          </div>
+          <div
+            class="font-w600 data-content date"
+          >
+            10/11/2020
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form
+          </div>
+          <div
+            class="font-w600 data-content form"
+          >
+            Form 2
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form type
+          </div>
+          <div
+            class="font-w600 data-content form_type"
+          >
+            page
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            status
+          </div>
+          <div
+            class="font-w600 data-content status"
+          >
+            approved
+          </div>
+        </div>
+        
+        <div
+          class="column"
+        >
+          <div>
+            Action
+          </div>
+          <div>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+            >
+              <i
+                class="fa fa-edit"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="modal-activator"
+            >
+              <i
+                class="fa fa-eye"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="delete-activator"
+            >
+              <i
+                class="fa fa-trash"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="content justify-center row-hover"
+      >
+        
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            name
+          </div>
+          <div
+            class="font-w600 data-content name"
+          >
+            Jonathan
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            email
+          </div>
+          <div
+            class="font-w600 data-content email"
+          >
+            jonathan@gmail.com
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            recommendation
+          </div>
+          <div
+            class="font-w600 data-content recommendation"
+          >
+            maybe
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            feedback
+          </div>
+          <div
+            class="font-w600 data-content feedback"
+          >
+            My neighbor Karly has one of these. She works as a gambler and she says it looks tall. I saw one of these in Spratly Islands and I bought one. works okay.
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            date
+          </div>
+          <div
+            class="font-w600 data-content date"
+          >
+            16/03/2021
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form
+          </div>
+          <div
+            class="font-w600 data-content form"
+          >
+            Form 3
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form type
+          </div>
+          <div
+            class="font-w600 data-content form_type"
+          >
+            page
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            status
+          </div>
+          <div
+            class="font-w600 data-content status"
+          >
+            approved
+          </div>
+        </div>
+        
+        <div
+          class="column"
+        >
+          <div>
+            Action
+          </div>
+          <div>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+            >
+              <i
+                class="fa fa-edit"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="modal-activator"
+            >
+              <i
+                class="fa fa-eye"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="delete-activator"
+            >
+              <i
+                class="fa fa-trash"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="content justify-center row-hover"
+      >
+        
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            name
+          </div>
+          <div
+            class="font-w600 data-content name"
+          >
+            Nicole
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            email
+          </div>
+          <div
+            class="font-w600 data-content email"
+          >
+            nicole@yahoo.com
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            recommendation
+          </div>
+          <div
+            class="font-w600 data-content recommendation"
+          >
+            no
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            feedback
+          </div>
+          <div
+            class="font-w600 data-content feedback"
+          >
+            The box this comes in is 4 yard by 5 inch and weights 12 pound! i use it profusely when i'm in my garage.
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            date
+          </div>
+          <div
+            class="font-w600 data-content date"
+          >
+            02/10/2021
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form
+          </div>
+          <div
+            class="font-w600 data-content form"
+          >
+            Form 4
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form type
+          </div>
+          <div
+            class="font-w600 data-content form_type"
+          >
+            popup
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            status
+          </div>
+          <div
+            class="font-w600 data-content status"
+          >
+            pending
+          </div>
+        </div>
+        
+        <div
+          class="column"
+        >
+          <div>
+            Action
+          </div>
+          <div>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+            >
+              <i
+                class="fa fa-edit"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="modal-activator"
+            >
+              <i
+                class="fa fa-eye"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="delete-activator"
+            >
+              <i
+                class="fa fa-trash"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="content justify-center row-hover"
+      >
+        
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            name
+          </div>
+          <div
+            class="font-w600 data-content name"
+          >
+            Ivana Trajkova
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            email
+          </div>
+          <div
+            class="font-w600 data-content email"
+          >
+            ivana_tr@example.com
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            recommendation
+          </div>
+          <div
+            class="font-w600 data-content recommendation"
+          >
+            yes
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            feedback
+          </div>
+          <div
+            class="font-w600 data-content feedback"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non enim gravida ante feugiat fermentum in vitae sem. Mauris ligula ante, finibus quis convallis eget, auctor vehicula massa. Nunc arcu lectus, viverra ac enim eu, suscipit fermentum sapien. Nam maximus facilisis enim sit amet tempor. Curabitur at euismod augue, et aliquet elit. Mauris dui libero, consequat sit amet lacus sit amet, vulputate interdum tellus. Morbi condimentum porttitor ornare.
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            date
+          </div>
+          <div
+            class="font-w600 data-content date"
+          >
+            13/04/2021
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form
+          </div>
+          <div
+            class="font-w600 data-content form"
+          >
+            Form 1
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            form type
+          </div>
+          <div
+            class="font-w600 data-content form_type"
+          >
+            popup
+          </div>
+        </div>
+        <div
+          class="column"
+        >
+          <div
+            class="title text-capitalize"
+          >
+            status
+          </div>
+          <div
+            class="font-w600 data-content status"
+          >
+            pending
+          </div>
+        </div>
+        
+        <div
+          class="column"
+        >
+          <div>
+            Action
+          </div>
+          <div>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+            >
+              <i
+                class="fa fa-edit"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="modal-activator"
+            >
+              <i
+                class="fa fa-eye"
+              />
+            </button>
+            <button
+              class="btn btn-gray btn-sm push-5-r"
+              data-testid="delete-activator"
+            >
+              <i
+                class="fa fa-trash"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div
+      class="row justify-content-center"
+    >
+      <button
+        class="btn btn-primary justify-content-center"
+        data-testid="test-load-more"
+      >
+         Load More 
+      </button>
+    </div>
+  </div>
+  <!--v-if-->
+  <!--v-if-->
+  
+</div>
+`;

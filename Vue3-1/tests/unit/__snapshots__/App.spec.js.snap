@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App App renders 1`] = `
+<div
+  class="app"
+>
+  <!--v-if-->
+  <!--v-if-->
+  <!--v-if-->
+</div>
+`;

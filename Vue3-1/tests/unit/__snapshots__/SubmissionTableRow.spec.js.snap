@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubmissionsTableRow.vue Matches snapshot 1`] = `
+<div
+  class="content justify-center"
+>
+  
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      name
+    </div>
+    <div
+      class="font-w600 data-content name"
+    >
+      Jonathan
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      email
+    </div>
+    <div
+      class="font-w600 data-content email"
+    >
+      jonathan@gmail.com
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      recommendation
+    </div>
+    <div
+      class="font-w600 data-content recommendation"
+    >
+      Maybe
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      feedback
+    </div>
+    <div
+      class="font-w600 data-content feedback"
+    >
+      My neighbor Karly has one of these. She works as a gambler and says it looks tall. I saw one of there in Sparly Islands and I bought One. works ok
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      date
+    </div>
+    <div
+      class="font-w600 data-content date"
+    >
+      16/03/2021
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      form
+    </div>
+    <div
+      class="font-w600 data-content form"
+    >
+      1
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      form type
+    </div>
+    <div
+      class="font-w600 data-content form_type"
+    >
+      page
+    </div>
+  </div>
+  <div
+    class="column"
+  >
+    <div
+      class="title text-capitalize"
+    >
+      status
+    </div>
+    <div
+      class="font-w600 data-content status"
+    >
+      pending
+    </div>
+  </div>
+  
+  <div
+    class="column"
+  >
+    <div>
+      Action
+    </div>
+    <div>
+      <button
+        class="btn btn-gray btn-sm push-5-r"
+      >
+        <i
+          class="fa fa-edit"
+        />
+      </button>
+      <button
+        class="btn btn-gray btn-sm push-5-r"
+        data-testid="modal-activator"
+      >
+        <i
+          class="fa fa-eye"
+        />
+      </button>
+      <button
+        class="btn btn-gray btn-sm push-5-r"
+        data-testid="delete-activator"
+      >
+        <i
+          class="fa fa-trash"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

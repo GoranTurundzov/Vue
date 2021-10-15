@@ -1,0 +1,328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubmissionForm App renders 1`] = `
+<div
+  class="content content-boxed bg-light"
+>
+  <div
+    class="push-left"
+  >
+    <button
+      class="btn btn-gray push-7-l"
+      data-testid="go-back-form-button"
+    >
+      <i
+        class="fas fa-angle-left push-10-r"
+      />
+      Back 
+    </button>
+  </div>
+  <div
+    class="justify-content-center"
+  >
+    <h3>
+      Create new submission
+    </h3>
+  </div>
+  <div
+    class="content-narrow"
+  >
+    <form
+      class="form-horisontal block-content content"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8 "
+          >
+            <label
+              class="form-label floating open"
+              for="Name"
+            >
+              Name*
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <input
+              class="form-control"
+              data-testid="name-input"
+              name="Name"
+              type="text"
+            />
+          </div>
+        </div>
+        <!--v-if-->
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8"
+          >
+            <label
+              class="form-label floating open"
+              for="Email"
+            >
+              Email*
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <input
+              class="form-control"
+              data-testid="email-input"
+              name="Email"
+              type="text"
+            />
+          </div>
+        </div>
+        <!--v-if-->
+        <!--v-if-->
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8"
+          >
+            <label
+              class="form-label floating open"
+              for="Recommendation"
+            >
+               Recommendation 
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <select
+              class="form-control"
+              data-testid="recommendation-input"
+              name="Recommendation"
+            >
+              <option
+                value="yes"
+              >
+                Yes
+              </option>
+              <option
+                value="no"
+              >
+                No
+              </option>
+              <option
+                value="maybe"
+              >
+                Maybe
+              </option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8"
+          >
+            <label
+              class="form-label floating open"
+              for="Feedback"
+            >
+              Feedback*
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <textarea
+              class="form-control"
+              data-testid="feedback-input"
+              name="Feedback"
+              rows="5"
+            />
+          </div>
+        </div>
+        <!--v-if-->
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8"
+          >
+            <label
+              class="form-label floating open"
+              for="Date"
+              type="date"
+            >
+              Date*
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <input
+              class="form-control"
+              data-testid="date-input"
+              name="Date"
+              placeholder="DD/MM/YYYY"
+              type="text"
+            />
+          </div>
+        </div>
+        <!--v-if-->
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8"
+          >
+            <label
+              class="form-label floating open"
+              for="Form"
+            >
+              Form*
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <select
+              class="form-control"
+              data-testid="form-input"
+              name="Form"
+            >
+              <option
+                disabled=""
+                value=""
+              >
+                Select a form
+              </option>
+              
+              <option
+                value="[object Object]"
+              >
+                Form 1 - popup
+              </option>
+              <option
+                value="[object Object]"
+              >
+                Form 2 - page
+              </option>
+              <option
+                value="[object Object]"
+              >
+                Form 3 - page
+              </option>
+              <option
+                value="[object Object]"
+              >
+                Form 4 - popup
+              </option>
+              <option
+                value="[object Object]"
+              >
+                Form 5 - email
+              </option>
+              <option
+                value="[object Object]"
+              >
+                Form 6 - page
+              </option>
+              <option
+                value="[object Object]"
+              >
+                Form 7 - email
+              </option>
+              
+            </select>
+          </div>
+        </div>
+        <!--v-if-->
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="form-group"
+        >
+          <div
+            class="col-xs-8"
+          >
+            <label
+              class="form-label floating open"
+              for="Status"
+            >
+              Status
+            </label>
+          </div>
+          <div
+            class="col-xs-12"
+          >
+            <select
+              class="form-control"
+              data-testid="status-input"
+              name="Status"
+            >
+              <option
+                value="pending"
+              >
+                Pending
+              </option>
+              <option
+                value="approved"
+              >
+                Approved
+              </option>
+              <option
+                value="rejected"
+              >
+                Rejected
+              </option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group row"
+      >
+        <div
+          class="col-xs-12 text-center"
+        >
+          <button
+            class="btn btn-primary form-material"
+            data-testid="submit-submission-button"
+            type="submit"
+          >
+             Submit 
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+`;

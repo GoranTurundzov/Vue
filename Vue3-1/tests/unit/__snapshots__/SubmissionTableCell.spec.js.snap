@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubmissionsTableCell Matches snapshot 1`] = `
+<div
+  class="column"
+>
+  <div
+    class="title text-capitalize"
+  >
+    name
+  </div>
+  <div
+    class="font-w600 data-content name"
+  >
+    Goran
+  </div>
+</div>
+`;

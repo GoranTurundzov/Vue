@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filters Matches snapshot 1`] = `
+<div
+  class="form-div"
+>
+  <form
+    class="form-horizontal"
+  >
+    <div
+      class="block-content"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class="col-xs-12"
+        >
+           Form 
+        </label>
+        <div
+          class="col-xs-12 push-20"
+        >
+          <select
+            class="form-control"
+            data-testid="form-name-selector"
+          >
+            <option>
+              All
+            </option>
+            
+            <option>
+              Form 1
+            </option>
+            <option>
+              Form 2
+            </option>
+            <option>
+              Form 3
+            </option>
+            <option>
+              Form 4
+            </option>
+            <option>
+              Form 5
+            </option>
+            <option>
+              Form 6
+            </option>
+            <option>
+              Form 7
+            </option>
+            
+          </select>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="col-xs-12"
+        >
+           Form Type 
+        </label>
+        <div
+          class="col-xs-12 push-20"
+        >
+          <select
+            class="form-control"
+            data-testid="form-selector"
+          >
+            <option>
+              All
+            </option>
+            <option>
+              Popup
+            </option>
+            <option>
+              Page
+            </option>
+            <option>
+              Email
+            </option>
+          </select>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="col-xs-12"
+        >
+           Recommendation 
+        </label>
+        <div
+          class="col-xs-12 push-20"
+        >
+          <select
+            class="form-control"
+            data-testid="recommendation-selector"
+          >
+            <option>
+              All
+            </option>
+            <option>
+              Yes
+            </option>
+            <option>
+              No
+            </option>
+            <option>
+              Maybe
+            </option>
+          </select>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="col-xs-12"
+        >
+           Date 
+        </label>
+        <div
+          class="col-xs-12 push-20"
+        >
+          <select
+            class="form-control"
+            data-testid="date-selector"
+          >
+            <option>
+              All
+            </option>
+            <option>
+              Today
+            </option>
+            <option>
+              Yesterday
+            </option>
+            <option>
+              Month to date
+            </option>
+            <option>
+              Last month
+            </option>
+            <option>
+              Year to date
+            </option>
+            <option>
+              Last year
+            </option>
+          </select>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class="col-xs-12"
+        >
+           Status 
+        </label>
+        <div
+          class="col-xs-12 push-20"
+        >
+          <select
+            class="form-control"
+            data-testid="status-selector"
+          >
+            <option>
+              All
+            </option>
+            <option>
+              Pending
+            </option>
+            <option>
+              Approved
+            </option>
+            <option>
+              Rejected
+            </option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

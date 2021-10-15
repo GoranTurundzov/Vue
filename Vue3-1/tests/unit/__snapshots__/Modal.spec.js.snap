@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubmissionModal Matches snapshot 1`] = `
+<div
+  class="modal out"
+>
+  <div
+    class="modal-dialog modal-dialog-centered"
+  >
+    <div
+      class="modal-content"
+    >
+      <div
+        class="block-header bg-primary-darker"
+      >
+        <ul
+          class="block-options"
+        >
+          <li>
+            <button
+              data-testid="x-button"
+              type="button"
+            >
+              <i
+                class="fa fa-times"
+              />
+            </button>
+          </li>
+        </ul>
+        
+        
+      </div>
+      <div
+        class="block-content"
+      >
+        
+        
+      </div>
+      <!--v-if-->
+    </div>
+  </div>
+</div>
+`;
