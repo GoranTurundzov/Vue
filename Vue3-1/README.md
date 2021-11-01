@@ -1,4 +1,6 @@
-# test-app
+# Vue App
+
+Complete CRUD project completed with unit tests created while learning VUE
 
 ## Project setup
 ```
